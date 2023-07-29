@@ -24,7 +24,7 @@ This mod will most likely stay private
 --------------------------
 REQUIREMENTS!
 --------------------------
-Utilla
+Utilla and
 BepInEx.ConfigurationManager
 --------------------------
 https://github.com/legoandmars/Utilla
