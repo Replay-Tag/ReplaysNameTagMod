@@ -20,3 +20,11 @@ This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not 
 --------------------------
 This mod will most likely stay private
 --------------------------
+
+--------------------------
+REQUIREMENTS!
+Utilla
+BepInEx.ConfigurationManager
+https://github.com/legoandmars/Utilla
+https://github.com/BepInEx/BepInEx.ConfigurationManager
+--------------------------
