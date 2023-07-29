@@ -26,5 +26,7 @@ REQUIREMENTS!
 --------------------------
 Utilla
 BepInEx.ConfigurationManager
+--------------------------
 https://github.com/legoandmars/Utilla
 https://github.com/BepInEx/BepInEx.ConfigurationManager
+--------------------------
