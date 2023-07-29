@@ -23,8 +23,8 @@ This mod will most likely stay private
 
 --------------------------
 REQUIREMENTS!
-https://github.com/legoandmars/Utilla
-https://github.com/BepInEx/BepInEx.ConfigurationManager
 --------------------------
 Utilla
 BepInEx.ConfigurationManager
+https://github.com/legoandmars/Utilla
+https://github.com/BepInEx/BepInEx.ConfigurationManager
