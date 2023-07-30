@@ -30,3 +30,11 @@ BepInEx.ConfigurationManager
 https://github.com/legoandmars/Utilla
 https://github.com/BepInEx/BepInEx.ConfigurationManager
 --------------------------
+
+
+--------------------------
+USE AT OWN RISK!
+--------------------------
+All mods are use at own risk now there are no such
+thing as legal and illegal mods anymore you can get banned for any mod now
+dont blame me if you get banned Have a great day!
