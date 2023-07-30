@@ -13,6 +13,7 @@ SCREENSHOTS!
 --------------------------
 ![image](https://i.ibb.co/QmMrD5v/23-07-29-09-00-50-16.png)
 ![image](https://i.ibb.co/k2zb4Hm/23-07-30-06-51-56-53.png)
+Image's outdated theres a new font for the text
 
 License
 
