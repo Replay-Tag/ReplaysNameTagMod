@@ -40,4 +40,4 @@ All mods are use at own risk now there are no such
 thing as legal and illegal mods anymore you can get banned for any mod now
 dont blame me if you get banned Have a great day!
 
-as of now the mod is broken with the current update
+as of now the mod is broken with the current update!
