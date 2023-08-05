@@ -13,7 +13,6 @@ SCREENSHOTS!
 --------------------------
 ![image](https://i.ibb.co/QmMrD5v/23-07-29-09-00-50-16.png)
 ![image](https://i.ibb.co/k2zb4Hm/23-07-30-06-51-56-53.png)
-images outdated there's a new font for the text
 
 License
 
@@ -40,3 +39,5 @@ USE AT OWN RISK!
 All mods are use at own risk now there are no such
 thing as legal and illegal mods anymore you can get banned for any mod now
 dont blame me if you get banned Have a great day!
+
+as of now the mod is broken with the current update
